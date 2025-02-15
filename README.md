@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project examines the effectiveness of deep learning in classifying **Batik Banyumasan** patterns. It compares a custom **CNN** and the pre-trained **VGG16** model, incorporating **Canny Edge Detection** to enhance feature extraction. The study aims to improve classification accuracy, providing insights into the role of edge detection in deep learning while supporting cultural preservation and automated batik recognition.
 
+You can read **the document** of this project in [IEEE Xplore®](https://doi.org/10.1109/COMNETSAT63286.2024.10862216).
+
 ---
 
 ## 📂 Projects Structure
